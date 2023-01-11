@@ -1,0 +1,8 @@
+.statistics {
+  list-style: none;
+  padding: 0;
+}
+
+.statistics li:not(:last-child) {
+  margin-bottom: 5px;
+}
